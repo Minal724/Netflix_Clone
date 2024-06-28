@@ -1,1 +1,1 @@
-It is a Netflix Clone. The tech stack used is HTML and CSS.
+It is a Netflix Clone Website. The tech stack used is HTML and CSS.
